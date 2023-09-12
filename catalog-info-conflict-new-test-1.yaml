@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: conflict-test-2
-  title: Test Conflict 2
+  name: conflict-test-1-new-repo-move
+  title: Test Conflict 1 Repo Move
 spec:
   type: service
   owner: sblausten
