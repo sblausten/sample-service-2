@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sam-sample-service-3-root
+  description: Test
   title: Sample Service 3 - Sam
   annotations:
     backstage.io/techdocs-ref: dir:.
